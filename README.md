@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <p align="center">
 <img align="center" width="200" src="https://github.com/deekshasahu/GIT_Sample_Img/blob/main/women-dev.gif" />
